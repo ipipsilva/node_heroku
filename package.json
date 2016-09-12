@@ -1,0 +1,10 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "My minimalistic blog",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mime": "~1.2.7",
+    "serve-favicon": "^2.3.0"
+  }
+}
