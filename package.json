@@ -3,8 +3,10 @@
   "version": "0.0.1",
   "description": "My minimalistic blog",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "mime": "~1.2.7",
+    "mongoose": "^4.6.0",
     "serve-favicon": "^2.3.0"
   }
 }
